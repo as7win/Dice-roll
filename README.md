@@ -5,9 +5,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 # dependencies
 After creating the app install these dependencies:
 
-npm i @fortawesome/fontawesome-svg-core
-npm i @fortawesome/free-solid-svg-icons
-npm i @fortawesome/react-fontawesome
+npm i @fortawesome/fontawesome-svg-core, 
+npm i @fortawesome/free-solid-svg-icons,
+npm i @fortawesome/react-fontawesome,
 
 ### `npm start`
 
@@ -25,4 +25,4 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 
 
-creds: GeeksforGeeks
+
