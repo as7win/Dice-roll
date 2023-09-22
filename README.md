@@ -7,7 +7,7 @@ After creating the app install these dependencies:
 
 npm i @fortawesome/fontawesome-svg-core, 
 npm i @fortawesome/free-solid-svg-icons,
-npm i @fortawesome/react-fontawesome,
+npm i @fortawesome/react-fontawesome
 
 ### `npm start`
 
